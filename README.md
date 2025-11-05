@@ -2,5 +2,4 @@ We found a Meta Quest bug where scrolling with the controller's joystick just st
  
 If you hover in-between the gaps or just below or above the actual item then scrolling works again. Also if you turn off Compose in Collections scrolling works without any issues.
 
-https://github.com/user-attachments/assets/188b8a66-aac4-44d5-a9d8-1f69ca240018
-
+[Sample video](https://drive.google.com/file/d/1O1_XQW12JjAYRgMZJXKzSHcmuZ7J0oWq/view?usp=sharing)
